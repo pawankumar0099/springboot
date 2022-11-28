@@ -1,0 +1,12 @@
+server:
+  port: 6003
+  
+  
+spring:
+  application:
+    name: product_detail
+    
+    
+eureka:
+  instance:
+    hostname: localhost
